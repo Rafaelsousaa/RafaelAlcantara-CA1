@@ -1,6 +1,7 @@
 <?php include('Header.php');?>
 <link rel="stylesheet" href="css/form.css"> 
-<body>
+
+<body class="img">
 
 <div class="form">
 <form action="Form.php" method = "POST">

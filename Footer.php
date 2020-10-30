@@ -1,15 +1,4 @@
-<!-- <style>
-footer {
-	position:absolute;
-	width: 100%;
-	left: 0;
-	bottom: -35%;
-	background-color: brown;
-	color: white;
-	text-align: center;
-}
-</style>
-
+<link rel="stylesheet" href="css/footer.css"> 
 <footer>
 	<p> &copy; 2020 CCT College.</p>
-</footer> -->
+</footer>
