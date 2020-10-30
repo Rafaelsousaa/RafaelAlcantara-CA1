@@ -4,6 +4,8 @@
   <link rel="stylesheet" href="assets/css/css/bootstrap.css">
   <link rel="stylesheet" href="assets/css/css/style.css">
   <link rel="stylesheet" href="css/main.css">	
+  <link rel="stylesheet" href="css/home.css">	
+  <link rel="stylesheet" href="css/page1.css">
 
 </head>
 <body> 
@@ -20,6 +22,9 @@
         </li>
          <li class="nav-item">
           <a class="nav-link" href="Page2.php">Page2</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="Form.php">back</a>
         </li>
        
         
