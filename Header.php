@@ -13,16 +13,13 @@
     <div class="collapse navbar-collapse" id="navbarCollapse">
       <ul class="navbar-nav mr-auto">
         <li class="nav-item active">
-        <a class="nav-link" href="main.php">Home <span class="sr-only">(current)</span></a>
+        <a class="nav-link" href="Home.php">Home <span class="sr-only">(current)</span></a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="Page1.php">Page 1</a>
         </li>
-        <!-- <li class="nav-item">
-          <a class="nav-link" href="Page2.php">Page 2</a>
-        </li> -->
-        <li class="nav-item">
-          <a class="nav-link" href="testando.php">Page2</a>
+         <li class="nav-item">
+          <a class="nav-link" href="Page2.php">Page2</a>
         </li>
        
         
